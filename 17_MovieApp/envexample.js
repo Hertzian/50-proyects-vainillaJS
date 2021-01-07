@@ -1,0 +1,1 @@
+const MOVIEDB_API = '<your-api-key>'
